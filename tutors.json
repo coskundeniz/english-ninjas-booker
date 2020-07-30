@@ -1,0 +1,17 @@
+{
+    "tutors": [
+        {
+            "name": "Tutor1",
+            "tutor_id": "123456",
+            "preferred_session_length": "10",
+            "preferred_hours_of_day": [9, 13, 18]
+        },
+        {
+            "name": "Tutor2",
+            "tutor_id": "123457",
+            "preferred_session_length": "20",
+            "preferred_hours_of_day": [19, 21]
+        }
+    ]
+}
+
